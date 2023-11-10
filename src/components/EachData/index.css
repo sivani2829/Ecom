@@ -1,0 +1,9 @@
+.item-container {
+  display: flex;
+  list-style: none;
+}
+.main-category {
+  display: flex;
+  flex-direction: column;
+}
+

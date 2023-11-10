@@ -1,0 +1,14 @@
+.products-categoy {
+  display: flex;
+  flex-direction: row;
+  border-right: 1px solid black;
+}
+.products-categoy1 {
+  border-right: 2px solid rgb(13, 153, 234);
+}
+.each-category {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  height: 100vh;
+}

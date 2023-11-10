@@ -1,0 +1,24 @@
+.image-cls {
+  width: 230px;
+  height: 120px;
+}
+.item-cont {
+  border: 1px solid rgb(218, 237, 244);
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.plus-icon {
+  background-color: rgb(7, 249, 7);
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+  width: 30px;
+  margin-left: 200px;
+}
+.image-button {
+  display: flex;
+  flex-direction: column;
+}
